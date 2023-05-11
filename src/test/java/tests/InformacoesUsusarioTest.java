@@ -17,18 +17,17 @@ import static org.junit.Assert.assertEquals;
  */
 
 public class InformacoesUsusarioTest {
-    String usuario = "diegomes2023";
-    String senha = "diegomes2023";
     private WebDriver navegador;
-
     @Before
     public void setup(){
         System.setProperty( "webdriver.chrome.driver", "C:\\Tools\\chromedriver.exe");
         this.navegador = new ChromeDriver();
-
     }
     @Test
     public void testAdicionarUmaInformacaoAdicionalDoUsuario() throws InterruptedException {
+        String usuario = "diegomes2023";
+        String senha = "diegomes2023";
+
         this.navegador.get("http://www.juliodelima.com.br/taskit");  //=> acessa a pagina de login
         this.navegador.findElement(By.linkText("Sign in")).click();  //=> clicar no texto "Sign in"
         this.navegador.findElement(By.id("login-sign-in")).click();  //=> clicar no campo com o id:"login-sign-in"
@@ -42,7 +41,6 @@ public class InformacoesUsusarioTest {
         String texto = me.getText();
 
         assertEquals("Hi, diego",texto);
-
     }
     @After
     public void tearDown(){

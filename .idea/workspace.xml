@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eef9586-d2bb-4bb5-8cd5-60b34ee12573" name="Changes" comment="atualização validação de login na pagina">
+    <list default="true" id="5eef9586-d2bb-4bb5-8cd5-60b34ee12573" name="Changes" comment="Organizando os arquivos/testes com a inclusão de Before e After">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" afterDir="false" />
     </list>
@@ -41,14 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.InformacoesUsusarioTest">
     <configuration name="InformacoesUsusarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="automacaoSelenium" />
@@ -132,13 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683766009494</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Organizando os arquivos/testes com a inclusão de Before e After">
+      <created>1683766790304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683766790304</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criando estrutura para automação com Selenium e Java" />
     <MESSAGE value="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;" />
     <MESSAGE value="atualização validação de login na pagina" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualização validação de login na pagina" />
+    <MESSAGE value="Organizando os arquivos/testes com a inclusão de Before e After" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizando os arquivos/testes com a inclusão de Before e After" />
   </component>
 </project>
