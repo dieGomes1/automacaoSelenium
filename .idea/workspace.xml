@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eef9586-d2bb-4bb5-8cd5-60b34ee12573" name="Changes" comment="criando estrutura para automação com Selenium e Java">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" afterDir="false" />
+    <list default="true" id="5eef9586-d2bb-4bb5-8cd5-60b34ee12573" name="Changes" comment="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.InformacoesUsusarioTest">
+  <component name="RunManager" selected="JUnit.InformacoesUsusarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario">
     <configuration name="InformacoesUsusarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="automacaoSelenium" />
       <extension name="coverage">
@@ -84,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InformacoesUsusarioTest" />
         <item itemvalue="JUnit.InformacoesUsusarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" />
+        <item itemvalue="JUnit.InformacoesUsusarioTest" />
       </list>
     </recent_temporary>
   </component>
@@ -105,11 +104,19 @@
       <option name="project" value="LOCAL" />
       <updated>1683680968362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;">
+      <created>1683683751429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683683751429</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criando estrutura para automação com Selenium e Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="criando estrutura para automação com Selenium e Java" />
+    <MESSAGE value="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;" />
   </component>
 </project>
