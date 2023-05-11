@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eef9586-d2bb-4bb5-8cd5-60b34ee12573" name="Changes" comment="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;">
+    <list default="true" id="5eef9586-d2bb-4bb5-8cd5-60b34ee12573" name="Changes" comment="atualização validação de login na pagina">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/InformacoesUsusarioTest.java" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.InformacoesUsusarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario">
+  <component name="RunManager" selected="JUnit.InformacoesUsusarioTest">
     <configuration name="InformacoesUsusarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="automacaoSelenium" />
       <extension name="coverage">
@@ -83,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InformacoesUsusarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" />
         <item itemvalue="JUnit.InformacoesUsusarioTest" />
+        <item itemvalue="JUnit.InformacoesUsusarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" />
       </list>
     </recent_temporary>
   </component>
@@ -111,12 +111,34 @@
       <option name="project" value="LOCAL" />
       <updated>1683683751429</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="atualização validação de login na pagina">
+      <created>1683765949535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683765949535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="atualização validação de login na pagina">
+      <created>1683765981614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683765981614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="atualização validação de login na pagina">
+      <created>1683766009494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683766009494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criando estrutura para automação com Selenium e Java" />
     <MESSAGE value="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="iniciando o teste: abrindo navegador | acessando a página especifica | clicando no link de &quot;login&quot;" />
+    <MESSAGE value="atualização validação de login na pagina" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização validação de login na pagina" />
   </component>
 </project>
